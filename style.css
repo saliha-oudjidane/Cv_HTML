@@ -1,0 +1,80 @@
+<style>
+html{
+    height: 100%;
+}
+
+body {
+ margin: 0px;
+ margin-right: 100px;
+ margin-left: 300px;
+ height: 100%;
+	}
+div {
+	padding-left: 0px;
+    padding-right: 10px;
+    padding-top: 5px;
+		}
+.texte{
+	padding-left: 10px;
+	float: left;
+}
+
+.entete {
+	width:750px;
+	height:150px;
+	background-color:#dddddd;
+	}
+
+
+.img{
+	
+	float: right;	
+	}
+
+.onglet
+{
+    display: inline;
+    margin-left: -1px;
+    margin-right: -1px;
+    padding: 3px;
+    border: 1px solid black;
+    cursor: pointer;
+    width: 800px;
+}
+.onglet a
+{
+        color:#000000;
+        text-decoration:none;
+        padding-bottom: 4px;
+}
+.onglet_n
+{
+        background:#bbbbbb;
+        border-bottom:1px solid black;
+}
+.onglet_y
+{
+        background:#dddddd4d;
+        border-bottom:0px solid black;
+        padding-bottom:4px;
+}
+.contenu
+{
+        width: 750px;
+        height: 460px;
+        padding-left: 20px;
+        background: #f5f5f5;
+}
+ul
+{
+        margin-top:0px;
+        margin-bottom:0px;
+        margin-left:-10px
+}
+h1
+{
+        margin:0px;
+        padding:0px;
+}
+
+	</style>
